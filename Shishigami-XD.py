@@ -1,3 +1,20 @@
+# JANGAN RECODE MULU LOL BELAJAR CODING NGAPA 
+# GANTENG DOANG GK BISA CODING OKWOWKOWK
+# MINIMAL NGOMONG DULU KONTOL KALO MAU RECODE
+# https://github.com/Shishigami-X
+
+#!/usr/bin/python3
+# -*- coding: utf-8 -*-
+
+###---[ Author ]---###
+Author = 'Ferly Shishigami X'
+Github = 'github.com/FerlyXD'
+Facebook = 'Afriliyan Ferly Shishigami X'
+Version = 'Next Blade V.2'
+
+Author   = 'Ferly Shishigami X'
+Facebook = 'Afriliyan Ferly Shishigami X (https://m.facebook.com/profile.php?id=100013275378835)'
+Watsapp = '0857 9781 8026'
 #-----------------[ IMPORT-MODULE ]-------------------
 import requests,bs4,json,os,sys,random,datetime,time,re
 import urllib3,rich,base64
