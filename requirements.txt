@@ -5,3 +5,6 @@ mechanize
 requests
 pycryptodome
 pyfiglet
+moviepy
+colorama
+tqdm
